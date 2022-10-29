@@ -1,5 +1,14 @@
-# Repo om GIT te leren
+# Ons eerste GIT enabled project
 
-## subtitel
+## Dit is een leuke subtitel
 
-sdmvn mlvknskl vsdlkvn snksd vnskldn vlksdn vlksdn vklnsd lvknsdlk vsdklvnsldknv lsdknv klsdnvkls ndlvnk sdlkvn
+en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een **paragraaf**. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf. en dit is een paragraaf.
+
+> dit is een quote
+> [link naar google](https://www.google.be)
+
+1.  List item
+2.  ddd
+3.  d
+4.  d
+5.  d
